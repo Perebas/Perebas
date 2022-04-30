@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Perebas.
+- 👋 Hi, I’m @Wendel.
 - 👀 I’m interested in adding value to other people's lives (and girls).
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on the creation of new stuffs.
